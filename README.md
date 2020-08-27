@@ -172,9 +172,6 @@ Prediction notebooks is meant to run classification/predictions on specific data
 ### scripts
 Python scripts for image transformation (resizing and rotation).
 
-### saved_models
-Configuration files for all three versions of ResNet50_base model.
-
 ### bentoML
 BentoML service has been created and included for ResNet50.
 
